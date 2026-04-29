@@ -1,0 +1,289 @@
+State,Transaction_Count,Average_TransactionSize,ProductCategory,Year,Month
+Massachusetts,293,492.79,"Technology & Accessories",2025,12
+Massachusetts,267,10.10,"Stationery and Supplies",2025,12
+Massachusetts,263,32.64,"Apparel and Merchandise",2025,12
+Massachusetts,223,30.07,"Art Supplies",2025,12
+Massachusetts,130,162.62,Textbooks,2025,12
+Massachusetts,105,28.30,"Books (General)",2025,12
+Massachusetts,296,513.14,"Technology & Accessories",2025,11
+Massachusetts,258,32.12,"Apparel and Merchandise",2025,11
+Massachusetts,230,10.40,"Stationery and Supplies",2025,11
+Massachusetts,184,33.42,"Art Supplies",2025,11
+Massachusetts,142,170.14,Textbooks,2025,11
+Massachusetts,107,30.19,"Books (General)",2025,11
+Massachusetts,455,470.16,"Technology & Accessories",2025,10
+Massachusetts,384,9.98,"Stationery and Supplies",2025,10
+Massachusetts,373,30.51,"Apparel and Merchandise",2025,10
+Massachusetts,341,31.59,"Art Supplies",2025,10
+Massachusetts,196,162.16,Textbooks,2025,10
+Massachusetts,192,29.63,"Books (General)",2025,10
+Massachusetts,266,478.04,"Technology & Accessories",2025,9
+Massachusetts,249,30.62,"Apparel and Merchandise",2025,9
+Massachusetts,228,10.13,"Stationery and Supplies",2025,9
+Massachusetts,194,33.60,"Art Supplies",2025,9
+Massachusetts,134,165.66,Textbooks,2025,9
+Massachusetts,104,25.87,"Books (General)",2025,9
+Massachusetts,295,459.66,"Technology & Accessories",2025,8
+Massachusetts,259,10.03,"Stationery and Supplies",2025,8
+Massachusetts,252,30.50,"Apparel and Merchandise",2025,8
+Massachusetts,170,34.44,"Art Supplies",2025,8
+Massachusetts,125,165.33,Textbooks,2025,8
+Massachusetts,97,25.38,"Books (General)",2025,8
+Massachusetts,313,9.85,"Stationery and Supplies",2025,7
+Massachusetts,268,559.43,"Technology & Accessories",2025,7
+Massachusetts,243,33.40,"Apparel and Merchandise",2025,7
+Massachusetts,179,35.79,"Art Supplies",2025,7
+Massachusetts,131,159.81,Textbooks,2025,7
+Massachusetts,108,29.88,"Books (General)",2025,7
+Massachusetts,428,9.81,"Stationery and Supplies",2025,6
+Massachusetts,362,31.73,"Apparel and Merchandise",2025,6
+Massachusetts,295,33.16,"Art Supplies",2025,6
+Massachusetts,215,495.74,"Technology & Accessories",2025,6
+Massachusetts,193,172.86,Textbooks,2025,6
+Massachusetts,149,32.83,"Books (General)",2025,6
+Massachusetts,425,9.81,"Stationery and Supplies",2025,5
+Massachusetts,402,34.15,"Apparel and Merchandise",2025,5
+Massachusetts,275,33.81,"Art Supplies",2025,5
+Massachusetts,201,167.46,Textbooks,2025,5
+Massachusetts,187,489.23,"Technology & Accessories",2025,5
+Massachusetts,160,33.57,"Books (General)",2025,5
+Massachusetts,446,10.04,"Stationery and Supplies",2025,4
+Massachusetts,427,30.44,"Apparel and Merchandise",2025,4
+Massachusetts,291,33.35,"Art Supplies",2025,4
+Massachusetts,203,486.55,"Technology & Accessories",2025,4
+Massachusetts,155,168.25,Textbooks,2025,4
+Massachusetts,151,31.41,"Books (General)",2025,4
+Massachusetts,289,422.32,"Technology & Accessories",2025,3
+Massachusetts,271,9.62,"Stationery and Supplies",2025,3
+Massachusetts,243,31.57,"Apparel and Merchandise",2025,3
+Massachusetts,211,33.60,"Art Supplies",2025,3
+Massachusetts,104,177.50,Textbooks,2025,3
+Massachusetts,98,30.29,"Books (General)",2025,3
+Massachusetts,280,9.38,"Stationery and Supplies",2025,2
+Massachusetts,267,33.41,"Apparel and Merchandise",2025,2
+Massachusetts,222,32.85,"Art Supplies",2025,2
+Massachusetts,206,516.36,"Technology & Accessories",2025,2
+Massachusetts,96,28.08,"Books (General)",2025,2
+Massachusetts,71,173.66,Textbooks,2025,2
+Massachusetts,323,10.23,"Stationery and Supplies",2025,1
+Massachusetts,282,32.46,"Apparel and Merchandise",2025,1
+Massachusetts,249,454.47,"Technology & Accessories",2025,1
+Massachusetts,247,34.06,"Art Supplies",2025,1
+Massachusetts,128,29.63,"Books (General)",2025,1
+Massachusetts,77,167.82,Textbooks,2025,1
+Massachusetts,199,539.29,"Technology & Accessories",2024,12
+Massachusetts,175,10.32,"Stationery and Supplies",2024,12
+Massachusetts,160,32.55,"Apparel and Merchandise",2024,12
+Massachusetts,124,35.87,"Art Supplies",2024,12
+Massachusetts,106,175.40,Textbooks,2024,12
+Massachusetts,63,32.00,"Books (General)",2024,12
+Massachusetts,159,399.32,"Technology & Accessories",2024,11
+Massachusetts,154,11.24,"Stationery and Supplies",2024,11
+Massachusetts,153,29.56,"Apparel and Merchandise",2024,11
+Massachusetts,131,166.83,Textbooks,2024,11
+Massachusetts,114,27.13,"Art Supplies",2024,11
+Massachusetts,54,37.72,"Books (General)",2024,11
+Massachusetts,183,394.67,"Technology & Accessories",2024,10
+Massachusetts,171,10.39,"Stationery and Supplies",2024,10
+Massachusetts,152,173.85,Textbooks,2024,10
+Massachusetts,148,31.50,"Apparel and Merchandise",2024,10
+Massachusetts,125,31.77,"Art Supplies",2024,10
+Massachusetts,60,25.36,"Books (General)",2024,10
+Massachusetts,168,451.80,"Technology & Accessories",2024,9
+Massachusetts,153,10.07,"Stationery and Supplies",2024,9
+Massachusetts,146,173.97,Textbooks,2024,9
+Massachusetts,132,32.45,"Apparel and Merchandise",2024,9
+Massachusetts,105,29.49,"Art Supplies",2024,9
+Massachusetts,54,30.47,"Books (General)",2024,9
+Massachusetts,198,438.92,"Technology & Accessories",2024,8
+Massachusetts,170,9.32,"Stationery and Supplies",2024,8
+Massachusetts,156,32.40,"Apparel and Merchandise",2024,8
+Massachusetts,136,179.63,Textbooks,2024,8
+Massachusetts,128,34.43,"Art Supplies",2024,8
+Massachusetts,62,24.92,"Books (General)",2024,8
+Massachusetts,175,514.20,"Technology & Accessories",2024,7
+Massachusetts,168,10.17,"Stationery and Supplies",2024,7
+Massachusetts,149,171.59,Textbooks,2024,7
+Massachusetts,133,30.57,"Apparel and Merchandise",2024,7
+Massachusetts,133,25.44,"Art Supplies",2024,7
+Massachusetts,58,25.92,"Books (General)",2024,7
+Massachusetts,163,493.14,"Technology & Accessories",2024,6
+Massachusetts,151,9.80,"Stationery and Supplies",2024,6
+Massachusetts,141,29.69,"Apparel and Merchandise",2024,6
+Massachusetts,138,177.36,Textbooks,2024,6
+Massachusetts,133,29.89,"Art Supplies",2024,6
+Massachusetts,71,25.52,"Books (General)",2024,6
+Massachusetts,170,10.73,"Stationery and Supplies",2024,5
+Massachusetts,164,454.03,"Technology & Accessories",2024,5
+Massachusetts,153,28.91,"Apparel and Merchandise",2024,5
+Massachusetts,123,33.28,"Art Supplies",2024,5
+Massachusetts,117,168.29,Textbooks,2024,5
+Massachusetts,58,29.32,"Books (General)",2024,5
+Massachusetts,166,476.11,"Technology & Accessories",2024,4
+Massachusetts,153,31.31,"Apparel and Merchandise",2024,4
+Massachusetts,147,10.49,"Stationery and Supplies",2024,4
+Massachusetts,124,34.41,"Art Supplies",2024,4
+Massachusetts,95,170.99,Textbooks,2024,4
+Massachusetts,58,26.61,"Books (General)",2024,4
+Massachusetts,189,413.51,"Technology & Accessories",2024,3
+Massachusetts,179,35.29,"Apparel and Merchandise",2024,3
+Massachusetts,170,10.70,"Stationery and Supplies",2024,3
+Massachusetts,124,31.85,"Art Supplies",2024,3
+Massachusetts,114,166.16,Textbooks,2024,3
+Massachusetts,64,27.92,"Books (General)",2024,3
+Massachusetts,168,451.83,"Technology & Accessories",2024,2
+Massachusetts,164,10.65,"Stationery and Supplies",2024,2
+Massachusetts,141,33.96,"Apparel and Merchandise",2024,2
+Massachusetts,105,33.79,"Art Supplies",2024,2
+Massachusetts,95,175.50,Textbooks,2024,2
+Massachusetts,46,28.39,"Books (General)",2024,2
+Massachusetts,190,449.49,"Technology & Accessories",2024,1
+Massachusetts,173,9.75,"Stationery and Supplies",2024,1
+Massachusetts,172,33.54,"Apparel and Merchandise",2024,1
+Massachusetts,141,34.18,"Art Supplies",2024,1
+Massachusetts,107,170.07,Textbooks,2024,1
+Massachusetts,63,32.36,"Books (General)",2024,1
+Massachusetts,166,404.55,"Technology & Accessories",2023,12
+Massachusetts,159,11.15,"Stationery and Supplies",2023,12
+Massachusetts,155,29.75,"Apparel and Merchandise",2023,12
+Massachusetts,138,165.59,Textbooks,2023,12
+Massachusetts,117,27.32,"Art Supplies",2023,12
+Massachusetts,55,37.36,"Books (General)",2023,12
+Massachusetts,176,389.55,"Technology & Accessories",2023,11
+Massachusetts,166,10.45,"Stationery and Supplies",2023,11
+Massachusetts,146,31.33,"Apparel and Merchandise",2023,11
+Massachusetts,145,175.37,Textbooks,2023,11
+Massachusetts,122,31.71,"Art Supplies",2023,11
+Massachusetts,59,25.49,"Books (General)",2023,11
+Massachusetts,174,442.39,"Technology & Accessories",2023,10
+Massachusetts,159,9.94,"Stationery and Supplies",2023,10
+Massachusetts,149,173.93,Textbooks,2023,10
+Massachusetts,136,32.47,"Apparel and Merchandise",2023,10
+Massachusetts,111,29.38,"Art Supplies",2023,10
+Massachusetts,56,29.93,"Books (General)",2023,10
+Massachusetts,192,447.04,"Technology & Accessories",2023,9
+Massachusetts,164,9.42,"Stationery and Supplies",2023,9
+Massachusetts,152,32.39,"Apparel and Merchandise",2023,9
+Massachusetts,133,179.80,Textbooks,2023,9
+Massachusetts,122,34.76,"Art Supplies",2023,9
+Massachusetts,60,25.24,"Books (General)",2023,9
+Massachusetts,175,514.20,"Technology & Accessories",2023,8
+Massachusetts,168,10.17,"Stationery and Supplies",2023,8
+Massachusetts,149,171.59,Textbooks,2023,8
+Massachusetts,133,30.57,"Apparel and Merchandise",2023,8
+Massachusetts,133,25.44,"Art Supplies",2023,8
+Massachusetts,58,25.92,"Books (General)",2023,8
+Massachusetts,167,500.23,"Technology & Accessories",2023,7
+Massachusetts,159,9.91,"Stationery and Supplies",2023,7
+Massachusetts,148,29.90,"Apparel and Merchandise",2023,7
+Massachusetts,144,176.39,Textbooks,2023,7
+Massachusetts,136,29.72,"Art Supplies",2023,7
+Massachusetts,71,25.52,"Books (General)",2023,7
+Massachusetts,162,10.67,"Stationery and Supplies",2023,6
+Massachusetts,160,445.66,"Technology & Accessories",2023,6
+Massachusetts,146,28.66,"Apparel and Merchandise",2023,6
+Massachusetts,120,33.55,"Art Supplies",2023,6
+Massachusetts,111,169.06,Textbooks,2023,6
+Massachusetts,58,29.32,"Books (General)",2023,6
+Massachusetts,168,472.68,"Technology & Accessories",2023,5
+Massachusetts,160,31.18,"Apparel and Merchandise",2023,5
+Massachusetts,157,10.64,"Stationery and Supplies",2023,5
+Massachusetts,127,34.46,"Art Supplies",2023,5
+Massachusetts,99,170.95,Textbooks,2023,5
+Massachusetts,61,27.06,"Books (General)",2023,5
+Massachusetts,187,415.92,"Technology & Accessories",2023,4
+Massachusetts,172,35.58,"Apparel and Merchandise",2023,4
+Massachusetts,160,10.56,"Stationery and Supplies",2023,4
+Massachusetts,121,31.74,"Art Supplies",2023,4
+Massachusetts,110,166.03,Textbooks,2023,4
+Massachusetts,61,27.53,"Books (General)",2023,4
+Massachusetts,184,447.30,"Technology & Accessories",2023,3
+Massachusetts,177,10.59,"Stationery and Supplies",2023,3
+Massachusetts,154,34.31,"Apparel and Merchandise",2023,3
+Massachusetts,119,33.35,"Art Supplies",2023,3
+Massachusetts,100,175.09,Textbooks,2023,3
+Massachusetts,53,28.40,"Books (General)",2023,3
+Massachusetts,168,449.65,"Technology & Accessories",2023,2
+Massachusetts,157,9.82,"Stationery and Supplies",2023,2
+Massachusetts,152,32.83,"Apparel and Merchandise",2023,2
+Massachusetts,123,34.95,"Art Supplies",2023,2
+Massachusetts,96,169.98,Textbooks,2023,2
+Massachusetts,55,32.10,"Books (General)",2023,2
+Massachusetts,199,539.29,"Technology & Accessories",2023,1
+Massachusetts,175,10.32,"Stationery and Supplies",2023,1
+Massachusetts,160,32.55,"Apparel and Merchandise",2023,1
+Massachusetts,124,35.87,"Art Supplies",2023,1
+Massachusetts,106,175.40,Textbooks,2023,1
+Massachusetts,63,32.00,"Books (General)",2023,1
+Massachusetts,109,187.19,Textbooks,2022,12
+Massachusetts,108,10.99,"Stationery and Supplies",2022,12
+Massachusetts,106,398.43,"Technology & Accessories",2022,12
+Massachusetts,89,35.25,"Apparel and Merchandise",2022,12
+Massachusetts,72,27.30,"Art Supplies",2022,12
+Massachusetts,39,28.18,"Books (General)",2022,12
+Massachusetts,99,9.82,"Stationery and Supplies",2022,11
+Massachusetts,96,188.89,Textbooks,2022,11
+Massachusetts,95,32.00,"Apparel and Merchandise",2022,11
+Massachusetts,94,481.12,"Technology & Accessories",2022,11
+Massachusetts,81,30.96,"Art Supplies",2022,11
+Massachusetts,32,24.24,"Books (General)",2022,11
+Massachusetts,115,184.44,Textbooks,2022,10
+Massachusetts,104,9.63,"Stationery and Supplies",2022,10
+Massachusetts,101,31.87,"Apparel and Merchandise",2022,10
+Massachusetts,99,440.17,"Technology & Accessories",2022,10
+Massachusetts,81,30.00,"Art Supplies",2022,10
+Massachusetts,41,26.28,"Books (General)",2022,10
+Massachusetts,104,10.13,"Stationery and Supplies",2022,9
+Massachusetts,89,392.56,"Technology & Accessories",2022,9
+Massachusetts,87,180.58,Textbooks,2022,9
+Massachusetts,82,34.78,"Apparel and Merchandise",2022,9
+Massachusetts,81,31.69,"Art Supplies",2022,9
+Massachusetts,52,30.68,"Books (General)",2022,9
+Massachusetts,118,10.08,"Stationery and Supplies",2022,8
+Massachusetts,108,438.94,"Technology & Accessories",2022,8
+Massachusetts,107,176.97,Textbooks,2022,8
+Massachusetts,86,31.15,"Apparel and Merchandise",2022,8
+Massachusetts,74,28.21,"Art Supplies",2022,8
+Massachusetts,46,27.07,"Books (General)",2022,8
+Massachusetts,106,170.82,Textbooks,2022,7
+Massachusetts,95,436.67,"Technology & Accessories",2022,7
+Massachusetts,93,9.33,"Stationery and Supplies",2022,7
+Massachusetts,90,33.57,"Apparel and Merchandise",2022,7
+Massachusetts,80,30.19,"Art Supplies",2022,7
+Massachusetts,45,30.59,"Books (General)",2022,7
+Massachusetts,116,10.04,"Stationery and Supplies",2022,6
+Massachusetts,114,496.76,"Technology & Accessories",2022,6
+Massachusetts,94,184.74,Textbooks,2022,6
+Massachusetts,89,34.83,"Apparel and Merchandise",2022,6
+Massachusetts,71,27.71,"Art Supplies",2022,6
+Massachusetts,38,26.31,"Books (General)",2022,6
+Massachusetts,114,463.90,"Technology & Accessories",2022,5
+Massachusetts,105,9.51,"Stationery and Supplies",2022,5
+Massachusetts,96,28.10,"Art Supplies",2022,5
+Massachusetts,91,173.03,Textbooks,2022,5
+Massachusetts,75,33.63,"Apparel and Merchandise",2022,5
+Massachusetts,39,27.46,"Books (General)",2022,5
+Massachusetts,116,9.72,"Stationery and Supplies",2022,4
+Massachusetts,114,505.03,"Technology & Accessories",2022,4
+Massachusetts,91,182.18,Textbooks,2022,4
+Massachusetts,88,32.41,"Apparel and Merchandise",2022,4
+Massachusetts,71,27.97,"Art Supplies",2022,4
+Massachusetts,41,29.68,"Books (General)",2022,4
+Massachusetts,116,439.79,"Technology & Accessories",2022,3
+Massachusetts,102,183.29,Textbooks,2022,3
+Massachusetts,88,35.79,"Art Supplies",2022,3
+Massachusetts,85,28.00,"Apparel and Merchandise",2022,3
+Massachusetts,82,9.93,"Stationery and Supplies",2022,3
+Massachusetts,43,31.07,"Books (General)",2022,3
+Massachusetts,103,405.47,"Technology & Accessories",2022,2
+Massachusetts,95,33.96,"Apparel and Merchandise",2022,2
+Massachusetts,93,172.57,Textbooks,2022,2
+Massachusetts,85,10.89,"Stationery and Supplies",2022,2
+Massachusetts,81,31.43,"Art Supplies",2022,2
+Massachusetts,36,30.72,"Books (General)",2022,2
+Massachusetts,112,437.05,"Technology & Accessories",2022,1
+Massachusetts,106,10.74,"Stationery and Supplies",2022,1
+Massachusetts,93,31.23,"Art Supplies",2022,1
+Massachusetts,83,36.24,"Apparel and Merchandise",2022,1
+Massachusetts,73,168.95,Textbooks,2022,1
+Massachusetts,41,25.92,"Books (General)",2022,1
